@@ -1,8 +1,8 @@
 # IBM ACE CI/CD with Tekton
 
->---
 >**IMPORTANT NOTE:** This document is based on the version CP4I 2021.1.1. From version 2021.2.1 on it is possible to use an external repository for the bar files and therefore simplify the procedure.
->---
+
+---
 
 
 **Table of contents**
